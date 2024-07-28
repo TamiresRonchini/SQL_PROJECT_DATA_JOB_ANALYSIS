@@ -1,9 +1,9 @@
-Introduction
+# Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
-🔍 SQL queries? Check them out here: project_sql folder
+🔍 SQL queries? Check them out here: [project_sql folder] (/project_sql)
 
-Background
+# Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
 Data hails from my SQL Course. It's packed with insights on job titles, salaries, locations, and essential skills.
@@ -14,14 +14,14 @@ What skills are required for these top-paying jobs?
 What skills are most in demand for data analysts?
 Which skills are associated with higher salaries?
 What are the most optimal skills to learn?
-Tools I Used
+# Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
 SQL: The backbone of my analysis, allowing me to query the database and unearth critical insights.
 PostgreSQL: The chosen database management system, ideal for handling the job posting data.
 Visual Studio Code: My go-to for database management and executing SQL queries.
 Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
-The Analysis
+# The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
 1. Top Paying Data Analyst Jobs
@@ -195,13 +195,13 @@ High-Demand Programming Languages: Python and R stand out for their high demand,
 Cloud Tools and Technologies: Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
 Business Intelligence and Visualization Tools: Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
 Database Technologies: The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
-What I Learned
+# What I Learned
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
 🧩 Complex Query Crafting: Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
 📊 Data Aggregation: Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
 💡 Analytical Wizardry: Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
-Conclusions
+# Conclusions
 Insights
 From the analysis, several general insights emerged:
 
